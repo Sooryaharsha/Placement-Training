@@ -6,7 +6,7 @@ int i,j,n,k,totcol,totspace,s,pr;
 
 void main()
 {
-	n=7;
+	n=6;
 	for(i=0;i<n;i++)
 	{
 		for(s=i;s<n;s++)
