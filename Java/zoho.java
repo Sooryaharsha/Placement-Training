@@ -6,15 +6,16 @@ public class zoho
 	  int i,j,s;
 	  Scanner input = new Scanner(System.in);
 	  int n = input.nextInt();
-	  /*for (int i=0;i<=2*n;i++)
+	  for ( i=0;i<=2*n;i++)
 	  {
-		  for(int j=0;j<=2*n;j++)
+		  for(j=0;j<=2*n;j++)
 		  {
 			  int k= n-Math.min(Math.min(i,j),Math.min(2*n-i,2*n-j));
 			  System.out.print(k);
 		  }
 		  System.out.println();
-	  }*/
+	  }
+	  System.out.println();
 	  int pr=0;
 	  for(i=0;i<n;i++)
 	  {
