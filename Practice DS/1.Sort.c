@@ -19,7 +19,7 @@ void sort()
 {
 	for(i=0;i<size;i++)
 	{
-		for(j=i+1;j<size;j++)
+		for(j=i+1;j<size-i;j++)
 		{
 	  	   if(a[i]>a[j])
 	  	    {

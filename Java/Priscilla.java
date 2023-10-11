@@ -6,12 +6,12 @@ class Priscilla {
 
     Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
-        //pri1();
-        //pri2();
-        //pri3();
-        //pri4();
-        //pri5();
-        //pri6();
+        // pri1();
+        // pri2();
+        // pri3();
+        // pri4();
+        // pri5();
+        // pri6();
         pri7();
     }
 

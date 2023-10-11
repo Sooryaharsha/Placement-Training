@@ -14,8 +14,7 @@ void push(int elem)
 	{
 		top++;
 		stack[top]=elem;
-		printf("Pushed : %d",stack[top]);
-		
+		printf("Pushed : %d",stack[top]);	
 	}
 }
 

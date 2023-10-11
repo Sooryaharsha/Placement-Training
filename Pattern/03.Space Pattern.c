@@ -4,7 +4,7 @@ int i,j,n,k,space,s,totnoofCol,totspace;
 
 void main()
 {
-	pattern40();  //1,2,12,21,120,3,4,30,40,34,43,340,5,6,7
+	pattern340();  //1,2,12,21,120,3,4,30,40,34,43,340,5,6,7
 }
 
 void pattern1()

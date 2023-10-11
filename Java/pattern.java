@@ -1,18 +1,30 @@
 import java.net.SocketTimeoutException;
 import java.util.*;
 
+import javafx.scene.effect.Light.Spot;
+
 public class pattern
 {
     static int i,j,n,totcol,s,totspace,k;
     static char ch;
     public static void main(String[] args)
     {
-        //p1();
-        //p2();
-        //p3();
-        //p4();
-        //p5();
+        p1();
+        System.out.println();
+        p2();
+        System.out.println();
+        
+        p3();
+        System.out.println();     
+
+        p4();
+        System.out.println();  
+
+        p5();
+        System.out.println();  
+
         p6();
+        System.out.println();  
     }
 
     static void p1()
